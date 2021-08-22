@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey {}, I am {}! [🤗](https://telegra.ph/file/af54fb4a62733a4856653.jpg) I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+Hey {}, I am {}! [🤗](https://telegra.ph/file/ca6a98c28d36f0c779b96.jpg) I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
 Join my [support group](https://t.me/noobiezhub) to get information on all the latest updates.
 
