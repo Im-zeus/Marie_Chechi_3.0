@@ -6,7 +6,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](t.me/MarieChechi) ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @InFoTelGroup എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
 
-എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [മേരി ചേച്ചി 2.0](https://t.me/MissThena_bot).
+എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [Thena](https://t.me/MissThena_bot).
 
 Marie and I are moderating a [support group](https://t.me/NoobiezHub), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
